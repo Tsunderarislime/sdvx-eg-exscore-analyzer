@@ -18,3 +18,5 @@ Absolutely still an early, early WIP
 <br>Default location is `C:\Program Files\Tesseract-OCR\tessdata` <-- drag and drop **sdvxDigits.traineddata** into here
 
 2. Open **analyzer.ipynb** in Jupyter and read the instructions in there before running all the cells
+
+## Current iteration of sdvxDigits.traineddata: v1.0
